@@ -1,0 +1,39 @@
+header{
+    padding: 5px;
+    color: white;
+    background-color:black;
+    border-radius: 10px;
+    text-align: center;
+}
+li{
+    padding:7px;
+    color: white;
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: black;
+    background-color: beige;
+    padding: 10px;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    color: black;
+    background-color: beige;
+    padding: 5px;
+}
+img{
+    text-align: center;
+    padding: 10px;
+}
+body{
+    text-align: center;
+    background-color: beige;
+}
